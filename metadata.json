@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Snake",
+  "description": "Retro handheld pixel LCD Snake game with full-screen swipe controls, classic solid-wall rules, and local high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
